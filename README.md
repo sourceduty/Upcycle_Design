@@ -13,7 +13,7 @@ In addition to generating ideas, Upcycle Design provides background information 
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
-[Upcycling](https://github.com/sourceduty/Upcycle_Design)
+[Upcycling](https://github.com/sourceduty/Upcycling)
 <br>
 [Product Design](https://github.com/sourceduty/Product_Design)
 <br>
