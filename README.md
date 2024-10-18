@@ -17,6 +17,22 @@ This custom GPT promotes environmental sustainability by encouraging upcycling, 
 Additionally, this GPT serves as an educational tool, raising awareness about sustainable practices and encouraging individuals and businesses to think creatively about waste reduction. By providing easy-to-visualize concepts and practical design ideas, it makes upcycling more accessible and appealing, which can inspire people to adopt environmentally friendly habits. As more people embrace upcycling in their daily lives or incorporate it into their businesses, they contribute to a larger cultural shift towards sustainability. In this way, the GPT not only reduces individual environmental impacts but also supports the broader movement towards a more eco-friendly and resource-conscious society.
 
 #
+### Common Upcycled Parts and Products
+
+| Upcycled Parts            | Upcycled Products                                         | Example of Output Product                          |
+|---------------------------|-----------------------------------------------------------|---------------------------------------------------|
+| Wooden pallets             | Furniture (tables, shelves, chairs)                      | Coffee table, vertical garden shelf                |
+| Glass bottles              | Lamps, vases, glass brick walls                          | Wine bottle lamp, hanging garden vase              |
+| Old tires                  | Planters, playground flooring, furniture                 | Tire swing, outdoor garden planter                 |
+| Denim jeans                | Bags, rugs, pillows                                      | Denim tote bag, patchwork denim rug                |
+| Wine corks                 | Bulletin boards, coasters, keychains                     | Corkboard for office, cork coaster set             |
+| Bicycle wheels             | Clocks, wall art, hanging pot holders                    | Wall clock made from wheel rim, wheel chandelier   |
+| Metal cans                 | Lanterns, pencil holders, decorative containers          | Tin can lanterns with cut-out patterns             |
+| Plastic bottles            | Greenhouse panels, bird feeders, hanging planters        | Plastic bottle bird feeder for backyard            |
+| CDs or DVDs                | Mosaic art, coasters, wind chimes                        | Decorative mosaic mirror frame, CD coasters        |
+| Old books                  | Shelves, art frames, book safes                          | Floating book shelf, picture frame from book cover |
+
+#
 ![Upcycle Design](https://github.com/user-attachments/assets/10088967-4c7d-466b-845c-d48b54905039)
 
 #
