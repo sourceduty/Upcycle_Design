@@ -34,6 +34,8 @@ Additionally, this GPT serves as an educational tool, raising awareness about su
 
 #
 ![Upcycle Design](https://github.com/user-attachments/assets/10088967-4c7d-466b-845c-d48b54905039)
+#
+![Upcycling](https://github.com/user-attachments/assets/0e1c8fe3-74e7-4698-b6c6-8ebf454336b3)
 
 #
 ### Related Links
